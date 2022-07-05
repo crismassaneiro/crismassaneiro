@@ -1,4 +1,4 @@
-### Olá! Eu sou o Cristian Massaneiro, curto Apps e muito Android!!!!!!
+### Olá!!!!!!
 
 ##
  
