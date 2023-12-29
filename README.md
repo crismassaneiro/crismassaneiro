@@ -25,6 +25,5 @@ If you need help, feel free to reach out!
 
 ⬛ Let's Keep in Touch and Follow me
 -----------------------------
-<a href="https://www.linkedin.com/in/cristianmassaneiro/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-x?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2">
-</a>
+<a href="https://www.linkedin.com/in/cristianmassaneiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-x?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2"></a>
+<a href="https://twitter.com/CristianWorc"><img alt="Static Badge" src="https://img.shields.io/badge/X--X?style=for-the-badge&logo=x&logoColor=white&label=X-or-Twitter&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
