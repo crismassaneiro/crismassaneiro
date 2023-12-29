@@ -9,6 +9,7 @@ If you need help, feel free to reach out!
 
 ⬛ Technologies & Tools
 ----------------------------
+
 <p align="center">
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=white"></a>
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/amazon-aws?style=for-the-badge&logo=amazonaws&logoColor=white&color=%23232F3E"></a>
@@ -23,7 +24,8 @@ If you need help, feel free to reach out!
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/mongodb-b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248&color=%2347A248&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
 </p>
 
-⬛ Let's Keep in Touch and Follow me
+⬛ Let's Keep in Touch
 -----------------------------
+
 <a href="https://www.linkedin.com/in/cristianmassaneiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-x?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2"></a>
 <a href="https://twitter.com/CristianWorc"><img alt="Static Badge" src="https://img.shields.io/badge/X--X?style=for-the-badge&logo=x&logoColor=white&label=X-or-Twitter&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
