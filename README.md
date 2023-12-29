@@ -20,6 +20,7 @@ If you need help, feel free to reach out!
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/serverless-s?style=for-the-badge&logo=serverless&logoColor=white&labelColor=%23FD5750&color=%23FD5750"></a>
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/linux-x?style=for-the-badge&logo=linux&logoColor=white&labelColor=%23FCC624&color=%23FCC624&link=https%3A%2F%2Fgithub.com%2Fcrismassaneiro"></a>
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/apacheairflow-w?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=%23017CEE&color=%23017CEE&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/apachespark-k?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=%23E25A1C&color=%23E25A1C&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
 </p>
 
 
