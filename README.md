@@ -11,31 +11,16 @@ If you need help, feel free to reach out!
 ----------------------------
 
 <p align="center">
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=white">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/amazon-aws?style=for-the-badge&logo=amazonaws&logoColor=white&color=%23232F3E">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-sql?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/github-r?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-r?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/serverless-s?style=for-the-badge&logo=serverless&logoColor=white&labelColor=%23FD5750&color=%23FD5750">
-  </a>
-  <a href="https://github.com/crismassaneiro">
-    <img alt="Static Badge" src="https://img.shields.io/badge/linux-x?style=for-the-badge&logo=linux&logoColor=white&labelColor=%23FCC624&color=%23FCC624&link=https%3A%2F%2Fgithub.com%2Fcrismassaneiro">
-  </a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=white"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/amazon-aws?style=for-the-badge&logo=amazonaws&logoColor=white&color=%23232F3E"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/postgresql-sql?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/github-r?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/jupyter-r?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/serverless-s?style=for-the-badge&logo=serverless&logoColor=white&labelColor=%23FD5750&color=%23FD5750"></a>
+  <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/linux-x?style=for-the-badge&logo=linux&logoColor=white&labelColor=%23FCC624&color=%23FCC624&link=https%3A%2F%2Fgithub.com%2Fcrismassaneiro"></a>
 </p>
+
 
 
 ⬛ Let's Keep in Touch and Follow me
