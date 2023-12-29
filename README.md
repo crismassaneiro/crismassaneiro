@@ -1,13 +1,13 @@
 ## Hello, everyone! Cristian, here 👋
 
 
-About
+⚫ About
 ----------------------------
 I work in the field of Data Engineering, dedicating myself daily to studying the leading technologies in the data field. I have a special passion for cloud computing and I am pursuing all AWS certifications.
 
 If you need help, feel free to reach out!
 
-Technologies & Tools
+⚫ Technologies & Tools
 ----------------------------
 
 <p align="center">
@@ -24,7 +24,7 @@ Technologies & Tools
   <a href="https://github.com/crismassaneiro"><img alt="Static Badge" src="https://img.shields.io/badge/mongodb-b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248&color=%2347A248&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcristianmassaneiro%2F"></a>
 </p>
 
-Let's Keep in Touch
+⚫ Let's Keep in Touch
 -----------------------------
 
 <a href="https://www.linkedin.com/in/cristianmassaneiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-x?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2"></a>
