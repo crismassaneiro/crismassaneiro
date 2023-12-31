@@ -3,7 +3,8 @@
 
 ⚫ About
 ----------------------------
-I work in the field of Data Engineering, dedicating myself daily to studying the leading technologies in the data field. I have a special passion for cloud computing and I am pursuing all AWS certifications.
+I work in the field of Data Engineering, dedicating myself daily to studying the leading technologies in the data field. I have a special passion for cloud computing and I am pursuing all AWS certifications. I like the others clouds Too... all are at the same boat : )
+
 
 If you need help, feel free to reach out!
 
